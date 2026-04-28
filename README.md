@@ -60,7 +60,9 @@ I'm a Computer Science student focused on **network security and cloud infrastru
 ## TryHackMe
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/PwnSaif.png" alt="TryHackMe badge" />
+  <a href="https://tryhackme.com/p/PwnSaif">
+    <img src="https://tryhackme-badge.s3.amazonaws.com/PwnSaif.png" alt="TryHackMe badge" />
+  </a>
 </p>
 
 ---

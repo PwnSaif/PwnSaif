@@ -16,11 +16,11 @@
 
 I'm a Computer Science student focused on **network security and cloud infrastructure**. I build security tools, break (intentionally vulnerable) apps in my home lab, and grind TryHackMe rooms in my free time.
 
-- 🔭 Currently working toward: SOC Analyst & Cloud Security roles
-- 🏆 TryHackMe: **Gold League · 48 rooms · Top 15% globally**
-- ☁️ Certified: **AWS Cloud Practitioner** & **AWS AI Practitioner**
-- 🧪 Home lab: Docker-based DVWA, Juice Shop, WebGoat
-- 🌍 Based in Dhahran, Saudi Arabia
+-  Currently working toward: SOC Analyst & Cloud Security roles
+-  TryHackMe: **Gold League · 48 rooms · Top 15% globally**
+-  Certified: **AWS Cloud Practitioner** & **AWS AI Practitioner**
+-  Home lab: Docker-based DVWA, Juice Shop, WebGoat
+-  Based in Dhahran, Saudi Arabia
 
 ---
 
